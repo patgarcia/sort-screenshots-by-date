@@ -1,5 +1,5 @@
 # screenshots-by-date
-Organize screenshots in folders by date 
+Sort screenshots in folders by date 
 
 Given a screenshot file captured in mac `Screen Shot 2022-01-26 at 6.33.16 PM.png` create a new folder using the date, if it doesn't exist, and add the screenshot inside of it save as the time `6.33.16 PM.png`.
 
